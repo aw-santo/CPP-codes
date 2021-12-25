@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
     //BY constructors provided by the class fstreambase 
-    // string st = "shruuu->bestie!☻";
+    // string st = "hello this is san";
     // ofstream sOut("File_read_write_sameFile.txt");
     // sOut<<st;
     // sOut.close();
@@ -17,7 +17,7 @@ int main(){
     // sIn.close();
 
     //By functions of class fstreambase
-    // string st = "shruuu->bestie!☻";
+    // string st = "hello this is san";
     // ofstream out;
     // out.open("File_read_write_sameFile.txt");
     // out<<st;

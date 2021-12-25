@@ -21,9 +21,9 @@ class programmer : public Employee{
 };
 
 int main(){
-    // Employee san(1), shru(2);
+    // Employee san(1), sam(2);
     // cout<<san.salary<<endl;
-    // cout<<shru.salary<<endl;
+    // cout<<sam.salary<<endl;
     programmer san1(5);
     cout<<san1.id;
     return 0;
